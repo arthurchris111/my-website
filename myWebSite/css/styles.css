@@ -1,0 +1,85 @@
+.logo{
+    position: relative;
+    width: 150px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+
+.header{
+    position: relative;
+}
+
+.td{
+    position: relative;
+    width: 500px;
+    left: 700px;
+    bottom: 65px;
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(114, 245, 153);
+}
+
+.first-container{
+    font-size: 30px;
+    margin-left: 200px;
+    font-family: sans-serif;
+   
+}
+
+p{
+    font-size: 1.125rem;
+    line-height: 1.2;
+    color: rgb(170, 180, 180);
+}
+
+.apple{
+    position: absolute;
+    height: 60px;
+}
+
+.andriod{
+    position: absolute;
+    height: 62px;
+    left: 400px;
+    
+}
+
+.first-container{
+    display: inline-block;
+
+}
+
+.smart{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+
+.solution{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    margin-top: 152px;
+    margin-left:199px;
+}
+
+.girl-in-cap{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 500px;
+    margin-left: 50px;
+    margin-top: 140px;
+}
+
